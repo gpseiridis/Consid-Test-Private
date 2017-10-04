@@ -1,2 +1,1 @@
-# Consid-Test-Private
-private repository
+# A challenge which used to be in a private repo
